@@ -1,0 +1,6 @@
+E:\IT\projects\computermonitor\SystemMonitor\SystemInfo\bin\Release\SystemInfo.exe.config
+E:\IT\projects\computermonitor\SystemMonitor\SystemInfo\bin\Release\SystemInfo.exe
+E:\IT\projects\computermonitor\SystemMonitor\SystemInfo\bin\Release\SystemInfo.pdb
+E:\IT\projects\computermonitor\SystemMonitor\SystemInfo\obj\Release\SystemInfo.csproj.CoreCompileInputs.cache
+E:\IT\projects\computermonitor\SystemMonitor\SystemInfo\obj\Release\SystemInfo.exe
+E:\IT\projects\computermonitor\SystemMonitor\SystemInfo\obj\Release\SystemInfo.pdb
